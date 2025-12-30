@@ -6,9 +6,9 @@
 
 ## ✨ Features
 ## ✅ Multiple Game Modes
-### 1.3×3 Grid
-### 2.4×4 Grid
-### 3.5×5 Grid
+### 3×3 Grid
+### 4×4 Grid
+### 5×5 Grid
 
 ## 🎮 Two Player Mode
 ### Player 1 → X
