@@ -6,9 +6,9 @@
 
 ## ✨ Features
 ## ✅ Multiple Game Modes
-### 1. 3×3 Grid
-### 2. 4×4 Grid
-### 3. 5×5 Grid
+### 1.3×3 Grid
+### 2.4×4 Grid
+### 3.5×5 Grid
 
 ## 🎮 Two Player Mode
 ### Player 1 → X
@@ -18,9 +18,9 @@
 ## Player can choose board size before starting the game
 
 ## 🧠 Game Logic
-### 1. Win detection
-### 2. Draw detection
-### 3. Turn-based gameplay
+### 1.Win detection
+### 2.Draw detection
+### 3.Turn-based gameplay
 
 ## ⏹️ Controls
 ### E → Exit game
@@ -28,9 +28,9 @@
 ###💻 GUI-based execution using Turbo Assembler
 
 ## 🛠️ Technologies Used
-### 1. Assembly Language (x86)
-### 2. GUI Turbo Assembler
-### 3. DOS-based execution
+### 1.Assembly Language (x86)
+### 2.GUI Turbo Assembler
+### 3.DOS-based execution
 
 ## 📂 Repository Contents
 ### 📄 Assembly Code (Complete game logic)
@@ -40,20 +40,20 @@
 ### 🎮Runnable Game Files
 
 ## 👥 Team Members
-### 1. Muzammil – Group Leader (Core Logic & Code)
-### 2. Saud Ahmed 
-### 3. Ahmed Tanzeel Khan
+### 1.Muzammil – Group Leader (Core Logic & Code)
+### 2.Saud Ahmed 
+### 3.Ahmed Tanzeel Khan
 ### Special thanks to Muzammil for strong understanding and guidance throughout the project.
 
 ## 🚀 How to Run
-### 1. Install GUI Turbo Assembler
-### 2. Open the .asm file
-### 3. Assemble & Run
-### 4. Enjoy the game 🎉
+### 1.Install GUI Turbo Assembler
+### 2.Open the .asm file
+### 3.Assemble & Run
+### 4.Enjoy the game 🎉
 
 ## 📌 Note
 ### This project is:
-### -> Beginner-friendly
-### -> Perfect for Assembly Language university projects
-### -> Helpful for students learning compare, jump, loops, input/output, and game logic
+### ->Beginner-friendly
+### ->Perfect for Assembly Language university projects
+### ->Helpful for students learning compare, jump, loops, input/output, and game logic
 ### Feel free to use, learn, and modify this project for educational purposes ⭐.
